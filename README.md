@@ -86,5 +86,5 @@ $ git clone https://github.com/your-user-name/your-project-name
 
 ## Contact
 
-- GitHub [@your-username](https://github.com/gabiMaglia)
+- GitHub [@gabiMaglia](https://github.com/gabiMaglia)
 
